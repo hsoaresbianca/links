@@ -1,7 +1,7 @@
 # Projeto DevLinks
 - Este projeto foi desenvolvido na [Trilha Discover da Rocketseat](https://www.rocketseat.com.br/discover)
 - O DevLinks é um agregador de links para usar como cartão de visitas online.
-- Acesse o [PROJETO FINALIZADO](https://hsoaresbianca.github.io/devlinks/)
+- Acesse o [PROJETO FINALIZADO](https://hsoaresbianca.github.io/links/)
 
 ## Tecnologias Utilizadas
 - HTML e CSS
